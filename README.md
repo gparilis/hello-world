@@ -1,2 +1,3 @@
 # hello-world
-a repo for just whatever
+learning how this works
+
